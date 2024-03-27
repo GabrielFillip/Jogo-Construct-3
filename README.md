@@ -1,5 +1,8 @@
 # Jogo-Construct-3
 
+### Link: https://wizardsimulatoratvfatec.netlify.app/
+<br>
+
 #### Jogo low code feito para atividade na faculdade FATEC FRANCA. 
 #### curso: DSM 2º Semestre
 #### objetivo: criar e integrar o jogo com um banco de dados relacional.
